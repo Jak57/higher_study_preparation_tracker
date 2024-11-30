@@ -1,6 +1,9 @@
 # higher_study_preparation_tracker
 Preparation for Higher Studies in USA (CS -> NLP, Speech)
 
+## IELTS Resources
+* FB: https://docs.google.com/document/d/1GyZE8SC7eQCJgbvVuXux142b_BJzL-UknYFCua2SE8o/edit?usp=sharing
+
 ## IELTS Listening Test Score tracking
 * Sheet: https://docs.google.com/spreadsheets/d/1znoibH9pojVsiO4vxVN-luhd-nwYJGRwxu8YhLWgiMQ/edit?usp=sharing
 
